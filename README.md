@@ -20,6 +20,9 @@ For every language, you need to calculate the attributes below 👇:
   * Django 
   * Django Rest Framework
 
+## API 
+ 
+ * Github API : `https://api.github.com/search/repositories?q=created:>{date}&sort=stars&order=desc`
 
 ## How to 
 
@@ -35,3 +38,18 @@ Locally on your machine, download the zipped project or clone it then:
 
 ![](langs_1.PNG)
 ![](langs_2.PNG)
+
+
+## Author
+
+**Ayoub Berdeddouch**
+
+[![Ayoub BERDEDDOUCH](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-berdeddouch/)
+
+
+## Skills
+
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+
