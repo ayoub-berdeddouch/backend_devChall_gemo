@@ -29,3 +29,9 @@ Locally on your machine, download the zipped project or clone it then:
   + start the server using __`python manage.py runserver`__
   + Then go to http://127.0.0.1:8000/list_langs/
 
+
+
+## Screenshots
+
+![](langs_1.PNG)
+![](langs_2.PNG)
